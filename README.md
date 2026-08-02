@@ -16,6 +16,7 @@ screen, and store review has to be able to reach it without signing in.
 ## Apps
 
 - **Sudoku Master** — [privacy policy](https://nadeemiqbal.github.io/policies-apps/sudoku-master/privacy-policy/) ([source](sudoku-master/privacy-policy/index.html))
+- **Merge Drop** — [privacy policy](https://nadeemiqbal.github.io/policies-apps/merge-drop/privacy-policy/) ([source](merge-drop/privacy-policy/index.html))
 
 Each app's `index.html` is the canonical copy — edit it here, not in that
 app's own repository.
