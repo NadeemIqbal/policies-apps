@@ -1,11 +1,21 @@
-# Sudoku Master — Privacy Policy
+# Apps by Nadeem — Policies
 
-The published privacy policy for the **Sudoku Master** mobile game by Apps by Nadeem.
+Published policy documents for the Apps by Nadeem app portfolio, one app per
+folder:
 
-Live at <https://nadeemiqbal.github.io/sudoku-master-privacy/>.
+```
+<app-name>/
+  privacy-policy/
+    index.html
+```
 
-This repository is public on purpose: the URL is referenced by the Google Play and
-App Store listings and by the in-app *Settings → Privacy Policy* link, and store
-review has to be able to reach it without signing in.
+This repository is public on purpose: each page's URL is referenced by that
+app's Google Play and App Store listings and by its own in-app Settings
+screen, and store review has to be able to reach it without signing in.
 
-`index.html` is the canonical copy — edit it here, not in the app repository.
+## Apps
+
+- **Sudoku Master** — [privacy policy](https://nadeemiqbal.github.io/policies-apps/sudoku-master/privacy-policy/) ([source](sudoku-master/privacy-policy/index.html))
+
+Each app's `index.html` is the canonical copy — edit it here, not in that
+app's own repository.
